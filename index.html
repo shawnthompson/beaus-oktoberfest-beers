@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Beau's Oktoberfest 2018 Beers</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <link rel="stylesheet" href="./css/beer.css">
+</head>
+<body>
+    <main>
+        <h1>Beau's Oktoberfest 2018 Beer list</h1>
+        <p class="text-center"><a href="https://github.com/shawnthompson/beaus-oktoberfest2018-beer">View on Github.com</a></p>
+        <div id="example-1" class="wrapper">
+            <a v-for="item in items" class="item" href="{{ item.Untappd }}">
+        <section>
+          <h2>{{ item.Beer }}</h2>
+          <p>This <i>{{ item.Flavour }}</i> <span v-if="item.Percentage != ''">is <b>{{ item.Percentage }}% </b> and </span><span v-else>beer is </span>brought to you by <strong class="brewery">{{ item.Brewery }}</strong> all the way from <span class="location">{{ item.Location }}</span></p>
+        </section>
+        </a>
+</div>
+</main>
+
+      <script src="./js/beer.js"></script>
+</body>
+</html>
