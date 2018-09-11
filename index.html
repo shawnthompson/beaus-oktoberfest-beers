@@ -14,7 +14,7 @@
         <h1>Beau's Oktoberfest 2018 Beer list</h1>
         <p class="text-center"><a href="https://github.com/shawnthompson/beaus-oktoberfest2018-beer">View on Github.com</a></p>
         <div id="example-1" class="wrapper">
-            <a v-for="item in items" class="item" href="{{ item.Untappd }}">
+            <a v-for="item in items" class="item" :href="item.Untappd">
         <section>
           <h2>{{ item.Beer }}</h2>
           <p>This <i>{{ item.Flavour }}</i> <span v-if="item.Percentage != ''">is <b>{{ item.Percentage }}% </b> and </span><span v-else>beer is </span>brought to you by <strong class="brewery">{{ item.Brewery }}</strong> all the way from <span class="location">{{ item.Location }}</span></p>
