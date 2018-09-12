@@ -548,7 +548,15 @@ function sortBy(arr, key) {
 new Vue({
   el: '#beers',
   data: {
+    search: '',
     sort: items
+  },
+  computed: {
+    sort() {
+      return this.items.filter(item => {
+        return item.Beers.toLowerCase().includes(this.search.toLowerCase())
+      })
+    }
   },
   methods: {
     sortBy: function(key) {

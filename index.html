@@ -18,7 +18,7 @@
             <button v-on:click=" sortBy( 'Brewery' ) ">Brewery</button>
             <button v-on:click=" sortBy( 'Percentage' ) ">Percentage</button>
         </div>
-
+        <label for="search">Search: </label><input id="search" type="text" v-model="search" />
         <div class="wrapper">
             <a v-for="item in sort" class="item" v-bind:class="{ beaus: item.Brewery === 'Beau\'s'}" :href="item.Untappd">
                 <section>
