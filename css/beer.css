@@ -5,7 +5,9 @@
 h1 {
     text-align: center;
 }
-
+#products {
+    margin-bottom: 25px;
+}
 .text-center {
     text-align: center;
 }

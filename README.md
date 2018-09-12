@@ -6,3 +6,5 @@ My first Vue.JS app
 * [ ] List beers from _JSON_ file
 * [ ] Create a checklist
 * [ ] Save checklist to `localStorage`
+* [ ] Sort order for beers
+* [ ] Style page
