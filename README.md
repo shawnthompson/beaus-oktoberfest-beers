@@ -9,3 +9,4 @@ My first Vue.JS app
 * [ ] Add filter
 * [ ] Sort order for beers
 * [ ] Style page
+* [ ] Remove chatter in HTML
