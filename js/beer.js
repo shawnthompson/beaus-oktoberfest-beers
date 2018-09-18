@@ -537,34 +537,11 @@ var items = [
   }
 ]
 
-function sortBy(arr, key) {
-  return arr.sort(function (a, b) {
-    if (a[key] < b[key]) return -1
-    if (a[key] > b[key]) return  1
-    return 0
-  })
-}
 
 new Vue({
   el: '#beers',
   data: {
-    search: '',
-    sort: items
-  },
-  computed: {
-    sort() {
-      return this.items.filter(item => {
-        return item.Beers.toLowerCase().includes(this.search.toLowerCase())
-      })
-    }
-  },
-  methods: {
-    sortBy: function(key) {
-      sortBy(this.sort, key)
-    }
-  },
-  mounted: function () {
-    this.sortBy('Beer')
+    items
   } 
 });
 
