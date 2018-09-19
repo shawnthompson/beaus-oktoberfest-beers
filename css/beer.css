@@ -29,6 +29,15 @@ font-weight:  200;
     text-align: center;
 }
 
+.inv {
+	clip: rect(1px,1px,1px,1px);
+	height: 1px;
+	margin: 0;
+	overflow: hidden;
+	position: absolute;
+	width: 1px;
+}
+
 .beer {
     font-size: 150%;
     margin-bottom: 20px;
