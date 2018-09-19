@@ -15,17 +15,18 @@
         <h1>Beau's Oktoberfest 2018 Beer list</h1>
         <p class="text-center"><a href="https://github.com/shawnthompson/beaus-oktoberfest2018-beer">View on Github.com</a></p>
         <div class="wrapper">
-            <a v-for="item in items" class="item" v-bind:class="{ beaus: item.Brewery === 'Beau\'s'}" :href="item.Untappd">
-                <section class="text-center">
-                <h2><i class="fas fa-beer"></i> {{ item.Beer }}</h2>
+           
+                <div v-for="item in items" class="item" v-bind:class="{ beaus: item.Brewery === 'Beau\'s'}" class="text-center">
+                <label class="beer"><i class="fas fa-beer"></i>{{ item.Beer }}<input type="checkbox" ></label>
                 <ul class="list-unstyled">
                     <li class="style">{{ item.Flavour }}</li>
                     <li v-if="item.Percentage != ''" class="percentage">{{ item.Percentage }} <i class="fas fa-percent"></i></li>
                     <li class="location"><i class="fas fa-road"></i>{{ item.Location }}</li>
                     <li class="brewery"><i class="fab fa-fort-awesome"></i>{{ item.Brewery }}</li>
                 </ul>
-            </section>
-            </a>
+            <a :href="item.Untappd" class="btn btn-untappd"><i class="fab fa-untappd"></i>Untappd Link</a>
+        </div>
+             
     </div>
 </main>
 
