@@ -12,11 +12,11 @@
 </head>
 <body>
     <main id="beers">
-        <h1>Beau's Oktoberfest 2018 Beer list</h1>
+        <h1>Beau's Oktoberfest 2019 Beer list</h1>
         <p class="text-center"><a href="https://github.com/shawnthompson/beaus-oktoberfest2018-beer">View on Github.com</a></p>
         <div class="wrapper">
            
-                <div v-for="item in items" class="item" v-bind:class="{ beaus: item.Brewery === 'Beau\'s'}" class="text-center">
+                <div v-for="item in items" class="item" v-bind:class="{ beaus: item.Brewery === 'Beau\'s Brewing Co.'}" class="text-center">
                 <label class="beer"><i class="fas fa-beer"></i>{{ item.Beer }}<input type="checkbox" ></label>
                 <ul class="list-unstyled">
                     <li class="style"><span class="inv">Flavour: </span>{{ item.Flavour }}</li>
@@ -24,7 +24,7 @@
                     <li class="location"><i class="fas fa-road"></i><span class="inv">Location of brewery: </span>{{ item.Location }}</li>
                     <li class="brewery"><i class="fab fa-fort-awesome"></i><span class="inv">Brewery: </span>{{ item.Brewery }}</li>
                 </ul>
-            <a :href="item.Untappd" target="_blank" class="btn btn-untappd"><i class="fab fa-untappd"></i><span class="inv">{{ item.Beer }} </span>Untappd Link</a>
+            <a :href="item.Untappd" target="_blank" class="btn btn-untappd"><i class="fab fa-untappd"></i><span class="inv">{{ item.Beer }} </span>View on Untappd</a>
         </div>
              
     </div>
