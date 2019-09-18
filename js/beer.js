@@ -247,7 +247,7 @@ var items = [
     "Beer": "Foxtail",
     "Flavour": "Zwickelbier",
     "Percentage": "5.1",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/avling-brewery-foxtail/3391310"
 },
 {
     "ID" : "",
@@ -257,7 +257,7 @@ var items = [
     "Beer": "Coastal Elite",
     "Flavour": "Blended Leipziger Gose",
     "Percentage": "4.5",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/bar-hop-coastal-elite/3288344"
 },
 {
     "ID" : "",
@@ -267,7 +267,7 @@ var items = [
     "Beer": "The Tom Green Beer!",
     "Flavour": "Milk Stout",
     "Percentage": "5.0",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/beau-s-all-natural-brewing-company-the-tom-green-beer/370505"
 },
 {
     "ID" : "",
@@ -277,7 +277,7 @@ var items = [
     "Beer": "Daymoon",
     "Flavour": "Pale Ale",
     "Percentage": "5.8",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/beerlab-daymoon/3435742"
 },
 {
     "ID" : "",
@@ -287,7 +287,7 @@ var items = [
     "Beer": "Jutsu",
     "Flavour": "Pale Ale",
     "Percentage": "5.6",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/bellwoods-brewery-jutsu/1236912"
 },
 {
     "ID" : "",
@@ -297,7 +297,7 @@ var items = [
     "Beer": "Orange is the New Pink",
     "Flavour": "Orange Zest American Wheat",
     "Percentage": "6.0",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/beyond-the-pale-brewing-company-orange-is-the-new-pink/1016537"
 },
 {
     "ID" : "",
@@ -307,27 +307,27 @@ var items = [
     "Beer": "Forget The Hero",
     "Flavour": "Zero IBU I.P.A.",
     "Percentage": "6.5",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/big-rock-brewery-forget-the-hero/3435745"
 },
 {
     "ID" : "",
     "URL": "http://www.blackoakbeer.com/",
     "Brewery": "Black Oak Brewing Co.",
     "Location": "Etobicoke, ON",
-    "Beer": "Beat the Hea",
+    "Beer": "Beat the Heat",
     "Flavour": "Belgian Style Wheat",
     "Percentage": "4.5",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/black-oak-brewing-company-beat-the-heat/1502438"
 },
 {
     "ID" : "",
     "URL": "https://www.blackswanbrewing.ca/",
     "Brewery": "Black Swan Brewing Co.",
     "Location": "Stratford, ON",
-    "Beer": "Mash in Pumpkins",
+    "Beer": "Mash-in Pumpkins",
     "Flavour": "Pumpkin Barley Wine",
     "Percentage": "8.0",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/black-swan-brewing-co-mash-in-pumpkins/2969685"
 },
 {
     "ID" : "",
@@ -337,7 +337,7 @@ var items = [
     "Beer": "Hype Passionfruit",
     "Flavour": "Rustic Foeder Aged Saison w/ Fruit",
     "Percentage": "6.5",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/block-three-brewing-co-hype-with-passionfruit/3420930"
 },
 {
     "ID" : "",
@@ -347,7 +347,7 @@ var items = [
     "Beer": "iD",
     "Flavour": "Dry Hopped Pale Ale w/ Mango & Pineapple",
     "Percentage": "6.0",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/blood-brothers-brewing-id/3391749"
 },
 {
     "ID" : "",
@@ -357,7 +357,7 @@ var items = [
     "Beer": "Route 21",
     "Flavour": "Märzen",
     "Percentage": "5.5",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/braumeister-brewing-co-route-21/2859323"
 },
 {
     "ID" : "",
@@ -367,7 +367,7 @@ var items = [
     "Beer": "Marigold",
     "Flavour": "Belgian Style Golden Ale",
     "Percentage": "6.9",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/clifford-brewing-co-marigold-belgian-style-golden-ale/3084966"
 },
 {
     "ID" : "",
@@ -377,7 +377,7 @@ var items = [
     "Beer": "Kellerbier",
     "Flavour": "Kellerbier",
     "Percentage": "5.0",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/the-collingwood-brewery-freestyle-series-kellerbier/3148266"
 },
 {
     "ID" : "",
@@ -387,7 +387,7 @@ var items = [
     "Beer": "Safer Shore",
     "Flavour": "I.P.A.",
     "Percentage": "6.0",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/dominion-city-brewing-co-safer-shores-ipa/3393087"
 },
 {
     "ID" : "",
@@ -397,7 +397,7 @@ var items = [
     "Beer": "Lodestar",
     "Flavour": "Sour Ale w/ Pink Guava",
     "Percentage": "6.1",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/elora-brewing-company-lodestar-sour-ale-with-pink-guava/2245873"
 },
 {
     "ID" : "",
@@ -407,7 +407,7 @@ var items = [
     "Beer": "Spirit Country",
     "Flavour": "Lime, Ginger & Gin Botanical Kettle Sour",
     "Percentage": "5.3",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/fairweather-brewing-company-spirit-country/3386373"
 },
 {
     "ID" : "",
@@ -417,7 +417,7 @@ var items = [
     "Beer": "Dead Parrot",
     "Flavour": "Barrel Aged Sour Olde English Ale w/ Black Cherries",
     "Percentage": "7.7",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/forked-river-brewing-company-dead-parrot/1404636"
 },
 {
     "ID" : "",
@@ -427,7 +427,7 @@ var items = [
     "Beer": "Shiranami",
     "Flavour": "HefeWeizen",
     "Percentage": "5.5",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/godspeed-brewery-shiranami-hefe-weizen/2810527"
 },
 {
     "ID" : "",
@@ -437,7 +437,7 @@ var items = [
     "Beer": "RoboHop",
     "Flavour": "Imperial I.P.A.",
     "Percentage": "8.5",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/great-lakes-brewery-robohop-imperial-ipa/47317"
 },
 {
     "ID" : "",
