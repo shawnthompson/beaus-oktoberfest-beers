@@ -25,7 +25,7 @@
                     <li class="location"><i class="fas fa-road"></i><span class="inv">Location of brewery: </span>{{ item.Location }}</li>
                     <li class="brewery"><i class="fab fa-fort-awesome"></i><span class="inv">Brewery: </span>{{ item.Brewery }}</li>
                 </ul>
-            <a :href="item.Untappd" target="_blank" class="btn btn-untappd"><i class="fab fa-untappd"></i><span class="inv">{{ item.Beer }} </span>View on Untappd</a>
+            <p v-if="item.Untappd != ''"><a :href="item.Untappd" target="_blank" class="btn btn-untappd"><i class="fab fa-untappd"></i><span class="inv">{{ item.Beer }} </span>View on Untappd</a></p>
         </div>
              
     </div>
