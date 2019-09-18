@@ -17,16 +17,26 @@
         <p class="disclaimer"><strong>Disclaimer: </strong>This application is not affiliated with <a href="https://beaus.ca/">Beau's Brewing Co.</a> and was built by a fan of the festival who wanted to keep track of the beers he tried. The data in app was manually copied from  <a href="http://www.beausoktoberfest.ca/craft-haus">The Craft Haus  — Beau's Oktoberfest</a> and might have some errors in the data... sorry. Feel free to collaborate on the <a href="https://github.com/shawnthompson/beaus-oktoberfest-beers">Github.com project</a>.</p>
         <div class="wrapper">
            
-                <div v-for="item in items" class="item" v-bind:class="{ beaus: item.Brewery === 'Beau\'s Brewing Co.'}" class="text-center">
-                <label class="beer"><input class="save-cb-state" name="{{ item.ID }}" value="yes" type="checkbox" /><i class="fas fa-beer"></i>{{ item.Beer }}</label>
+            <section v-for="item in items" class="item" v-bind:class="{ beaus: item.Brewery === 'Beau\'s Brewing Co.'}" class="text-center">
+                <h2 class="beer"><i class="fas fa-beer"></i>{{ item.Beer }}</h2>
+                <div class="form-group">
+                    <div class="form-element">
+                        <input type="checkbox" class="save-cb-state" id="" value="" name="{{ item.ID }}">
+                        <label for="">Want to <span class="bigText">try</span></label>
+                    </div>
+                    <div class="form-element">
+                        <input type="checkbox" class="save-cb-state" id="" value="" name="{{ item.ID }}">
+                        <label for="">Have <span class="bigText">tried</span></label>
+                    </div>
+                </div>
                 <ul class="list-unstyled">
                     <li class="style"><span class="inv">Flavour: </span>{{ item.Flavour }}</li>
                     <li v-if="item.Percentage != ''" class="percentage"><span class="inv">Percentage: </span>{{ item.Percentage }} <i class="fas fa-percent"></i></li>
                     <li class="location"><i class="fas fa-road"></i><span class="inv">Location of brewery: </span>{{ item.Location }}</li>
-                    <li class="brewery"><i class="fab fa-fort-awesome"></i><span class="inv">Brewery: </span>{{ item.Brewery }}</li>
+                    <li class="brewery"><a :href="item.URL"><i class="fab fa-fort-awesome"></i><span class="inv">Brewery: </span>{{ item.Brewery }}</a></li>
                 </ul>
-            <p v-if="item.Untappd != ''"><a :href="item.Untappd" target="_blank" class="btn btn-untappd"><i class="fab fa-untappd"></i><span class="inv">{{ item.Beer }} </span>View on Untappd</a></p>
-        </div>
+                <p v-if="item.Untappd != ''"><a :href="item.Untappd" target="_blank" class="btn btn-untappd"><i class="fab fa-untappd"></i><span class="inv">{{ item.Beer }} </span>View on Untappd</a></p>
+            </section>
              
     </div>
 </main>
