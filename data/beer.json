@@ -1,5 +1,6 @@
 [
-  {
+  {"comment" : "THIS IS NOT UP TO DATE, PLEASE SEE ./js/beers.js FOR LIST"},
+    {
         "URL": "https://halobrewery.com/",
         "Brewery": "Halo Brewery",
         "Location": "Toronto, ON",
