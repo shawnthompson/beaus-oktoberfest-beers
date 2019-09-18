@@ -13,7 +13,8 @@
 <body>
     <main id="beers">
         <h1>Beau's Oktoberfest 2019 Beer list</h1>
-        <p class="text-center"><a href="https://github.com/shawnthompson/beaus-oktoberfest2018-beer">View on Github.com</a></p>
+        <p class="notice">The data is still being updated, not all links work</p>
+        <p class="disclaimer"><strong>Disclaimer: </strong>This application is not affiliated with <a href="https://beaus.ca/">Beau's Brewing Co.</a> and was built by a fan of the festival who wanted to keep track of the beers he tried. The data in app was manually copied from  <a href="http://www.beausoktoberfest.ca/craft-haus">The Craft Haus  — Beau's Oktoberfest</a> and might have some errors in the data... sorry. Feel free to collaborate on the <a href="https://github.com/shawnthompson/beaus-oktoberfest-beers">Github.com project</a>.</p>
         <div class="wrapper">
            
                 <div v-for="item in items" class="item" v-bind:class="{ beaus: item.Brewery === 'Beau\'s Brewing Co.'}" class="text-center">
@@ -29,6 +30,7 @@
              
     </div>
 </main>
+<footer>This site uses cookies to save your selections.</footer>
 
       <script src="./js/beer.js"></script>
 </body>

@@ -42,6 +42,18 @@ body {
 	width: 1px;
 }
 
+.notice {
+    font-size: 150%;
+    font-weight: bold;
+    color: chocolate;
+    text-shadow: #000 -1px 1px 1px;
+}
+
+.disclaimer {
+    background-color: #fff;
+    padding: 15px;
+}
+
 .beer {
     font-size: 150%;
     margin-bottom: 20px;
@@ -80,6 +92,10 @@ body {
 .location {
     font-style: italic;
     font-size: 125%;
+}
+
+footer {
+    padding: 25px;
 }
 
 /* Button style */
