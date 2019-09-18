@@ -1,5 +1,6 @@
 var items = [
   {
+    "ID" : "1",
     "URL": "https://halobrewery.com/",
     "Brewery": "Halo Brewery",
     "Location": "Toronto, ON",
@@ -9,6 +10,7 @@ var items = [
     "Untappd": "https://untappd.com/b/halo-brewery-quince-shapeshifter/3392751"
 },
 {
+    "ID" : "2",
     "URL": "https://indiealehouse.com/",
     "Brewery": "Indie Alehouse Brewing Co.",
     "Location": "Toronto, ON",
@@ -18,6 +20,7 @@ var items = [
     "Untappd": "https://untappd.com/b/indie-alehouse-raspberry-lemonade-stand/3388773"
 },
 {
+    "ID" : "3",
     "URL": "http://www.leftfieldbrewery.ca/",
     "Brewery": "Left Field Brewery",
     "Location": "Toronto, ON",
@@ -27,6 +30,7 @@ var items = [
     "Untappd": "https://untappd.com/b/left-field-brewery-big-train/2720783"
 },
 {
+    "ID" : "4",
     "URL": "https://www.littlebeastsbrewing.com/?v=3e8d115eb4b3",
     "Brewery": "Little Beasts Brewing Co.",
     "Location": "Whitby, ON",
@@ -36,6 +40,7 @@ var items = [
     "Untappd": "https://untappd.com/b/little-beasts-brewing-la-saison-du-printemps/2702444"
 },
 {
+    "ID" : "5",
     "URL": "http://longslice.com/",
     "Brewery": "Longslice Brewery",
     "Location": "Toronto, ON",
@@ -45,6 +50,7 @@ var items = [
     "Untappd": "https://untappd.com/b/longslice-brewery-aloha-friday/2631078"
 },
 {
+    "ID" : "6",
     "URL": "https://matronfinebeer.ca/",
     "Brewery": "Matron Fine Beer",
     "Location": "Bloomfield, ON",
@@ -54,6 +60,7 @@ var items = [
     "Untappd": "https://untappd.com/b/matron-fine-beer-janky-ipa/3166387"
 },
 {
+    "ID" : "",
     "URL": "https://www.muddyyorkbrewing.com/",
     "Brewery": "Muddy York Brewing Co.",
     "Location": "Toronto, ON",
@@ -63,6 +70,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://peoplespint.com/",
     "Brewery": "People's Pint Brewing Company",
     "Location": "Toronto, ON",
@@ -72,6 +80,7 @@ var items = [
     "Untappd": "https://untappd.com/b/people-s-pint-brewing-company-gose-cuervo/1711651"
 },
 {
+    "ID" : "",
     "URL": "https://rainhardbrewing.com/",
     "Brewery": "Rainhard Brewing Co.",
     "Location": "Toronto, ON",
@@ -81,6 +90,7 @@ var items = [
     "Untappd": "https://untappd.com/b/rainhard-brewing-daywalker/1145045"
 },
 {
+    "ID" : "",
     "URL": "http://www.redlinebrewhouse.com/",
     "Brewery": "Redline Brewhouse",
     "Location": "Barrie, ON",
@@ -90,6 +100,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://www.rougeriverbrewingcompany.com/",
     "Brewery": "Rouge River Brewing Company",
     "Location": "Markham, ON",
@@ -99,6 +110,7 @@ var items = [
     "Untappd": "https://untappd.com/b/rouge-river-brewing-company-passion-of-the-juice/3392879"
 },
 {
+    "ID" : "",
     "URL": "https://www.sawdustcitybrewing.com/",
     "Brewery": "Sawdust City Brewing Co.",
     "Location": "Gravenhurst, ON",
@@ -108,6 +120,7 @@ var items = [
     "Untappd": "https://untappd.com/b/sawdust-city-brewing-co-hase/3415295"
 },
 {
+    "ID" : "",
     "URL": "https://thesecondwedge.ca/",
     "Brewery": "The Second Wedge Brewing Co.",
     "Location": "UXbridge, ON",
@@ -117,6 +130,7 @@ var items = [
     "Untappd": "https://untappd.com/b/the-second-wedge-brewing-co-gin-joint/2773361"
 },
 {
+    "ID" : "",
     "URL": "https://shortfingerbrewing.com/",
     "Brewery": "Short Finger Brewing Co.",
     "Location": "Kitchener, ON",
@@ -126,6 +140,7 @@ var items = [
     "Untappd": "https://untappd.com/b/short-finger-brewing-co-ain-t-no-sunshine/2712125"
 },
 {
+    "ID" : "",
     "URL": "https://www.signal.beer/",
     "Brewery": "Signal Brewing Company",
     "Location": "Corbyville, ON",
@@ -135,6 +150,7 @@ var items = [
     "Untappd": "https://untappd.com/b/signal-brewing-company-toy-robot/2810184"
 },
 {
+    "ID" : "",
     "URL": "https://hendersonbrewing.com/beer/society-of-beer-drinking-ladies/",
     "Brewery": "Society Of Beer Drinking Ladies X Henderson",
     "Location": "Toronto, ON",
@@ -144,6 +160,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://untappd.com/Sonnen_Hill_Brewing",
     "Brewery": "Sonnen Hill Brewing",
     "Location": "Caledon, ON",
@@ -153,6 +170,7 @@ var items = [
     "Untappd": "https://untappd.com/b/sonnen-hill-brewing-pale-beer/3036913"
 },
 {
+    "ID" : "",
     "URL": "https://stonecityales.com/",
     "Brewery": "Stone City Ales",
     "Location": "Kingston, ON",
@@ -162,6 +180,7 @@ var items = [
     "Untappd": "https://untappd.com/b/stone-city-ales-ultra-fine-day/3419675"
 },
 {
+    "ID" : "",
     "URL": "https://stray-dog-brewing.myshopify.com/",
     "Brewery": "Stray Dog Brewing Company",
     "Location": "Ottawa, ON",
@@ -171,6 +190,7 @@ var items = [
     "Untappd": "https://untappd.com/b/stray-dog-brewing-co-shaggin-wagon/2269999"
 },
 {
+    "ID" : "",
     "URL": "https://toothandnailbeer.com/",
     "Brewery": "Tooth And Nail Brewery",
     "Location": "Ottawa, ON",
@@ -180,6 +200,7 @@ var items = [
     "Untappd": "https://untappd.com/b/tooth-and-nail-brewing-company-breezehill-rose/3432662"
 },
 {
+    "ID" : "",
     "URL": "http://townbrewery.ca/",
     "Brewery": "Town Brewery",
     "Location": "Whitby, ON",
@@ -189,6 +210,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "http://www.woodbrothersbrewing.com/",
     "Brewery": "Wood Brothers Brewing Company",
     "Location": "Glen Robertson, ON",
@@ -198,6 +220,7 @@ var items = [
     "Untappd": "https://untappd.com/b/wood-brothers-brewing-co-highland-haze-ipa/3173666"
 },
 {
+    "ID" : "",
     "URL": "https://www.555beer.com/",
     "Brewery": "555 Brewing Co.",
     "Location": "Picton, ON",
@@ -207,6 +230,7 @@ var items = [
     "Untappd": "https://untappd.com/b/555-brewing-co-jail-cell-sour/2170666"
 },
 {
+    "ID" : "",
     "URL": "https://andersoncraftales.ca/",
     "Brewery": "Anderson Craft Ales",
     "Location": "London, ON",
@@ -216,6 +240,7 @@ var items = [
     "Untappd": "https://untappd.com/b/anderson-craft-ales-mimosa-sour/3369752"
 },
 {
+    "ID" : "",
     "URL": "https://www.avling.ca/",
     "Brewery": "Avling Kitchen & Brewery",
     "Location": "Toronto, ON",
@@ -225,6 +250,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "http://www.barhopbar.com/",
     "Brewery": "Bar Hop Brewco",
     "Location": "Toronto, ON",
@@ -234,6 +260,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://beaus.ca/",
     "Brewery": "Beau's Brewing Co.",
     "Location": "Vankleek Hill, ON",
@@ -243,6 +270,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://www.facebook.com/pages/category/Brewery/Beerlab-London-212759812268247/",
     "Brewery": "Beerlab!",
     "Location": "London, ON",
@@ -252,6 +280,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://www.bellwoodsbrewery.com/",
     "Brewery": "Bellwoods Brewery",
     "Location": "Toronto, ON",
@@ -261,6 +290,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://btpshop.ca/",
     "Brewery": "Beyond The Pale Brewing Company",
     "Location": "Ottawa, ON",
@@ -270,6 +300,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://bigrockbeer.com/eatery/eatery/big-rock-brewery-toronto/",
     "Brewery": "Big Rock Brewery",
     "Location": "Toronto, ON",
@@ -279,6 +310,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "http://www.blackoakbeer.com/",
     "Brewery": "Black Oak Brewing Co.",
     "Location": "Etobicoke, ON",
@@ -288,6 +320,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://www.blackswanbrewing.ca/",
     "Brewery": "Black Swan Brewing Co.",
     "Location": "Stratford, ON",
@@ -297,6 +330,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://www.blockthreebrewing.com/",
     "Brewery": "Block Three Brewing",
     "Location": "Guelph, ON",
@@ -306,6 +340,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "http://www.bloodbrothersbrewing.com/",
     "Brewery": "Blood Brothers Brewing",
     "Location": "Toronto, ON",
@@ -315,6 +350,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "http://www.braumeister.ca/",
     "Brewery": "Braumeister Brewing Co.",
     "Location": "Carleton Place, ON",
@@ -324,6 +360,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "http://www.cliffordbrewing.com/",
     "Brewery": "Clifford Brewing Co.",
     "Location": "Hamilton, ON",
@@ -333,6 +370,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "http://www.thecollingwoodbrewery.com/",
     "Brewery": "The Collingwood Brewery",
     "Location": "Collingwood, ON",
@@ -342,6 +380,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://www.dominioncity.ca/",
     "Brewery": "Dominion City Brewing Co.",
     "Location": "Ottawa, ON",
@@ -351,6 +390,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://www.elorabrewingcompany.ca/",
     "Brewery": "Elora Brewing Company",
     "Location": "Elora, ON",
@@ -360,6 +400,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "http://fairweatherbrewing.com/",
     "Brewery": "Fairweather Brewing Company",
     "Location": "Hamilton, ON",
@@ -369,6 +410,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://www.forkedriverbrewing.com/",
     "Brewery": "Forked River Brewing Company",
     "Location": "London, ON",
@@ -378,6 +420,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://godspeedbrewery.com/",
     "Brewery": "Godspeed",
     "Location": "Toronto, ON",
@@ -387,6 +430,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "http://www.greatlakesbeer.com/",
     "Brewery": "Great Lakes Brewery",
     "Location": "Etobicoke, ON",
@@ -396,6 +440,7 @@ var items = [
     "Untappd": ""
 },
 {
+    "ID" : "",
     "URL": "https://www.halcyon.beer/",
     "Brewery": "Halcyon Barrel House",
     "Location": "Vankleek Hill, ON",
