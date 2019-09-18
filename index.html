@@ -21,11 +21,11 @@
                 <h2 class="beer"><i class="fas fa-beer"></i>{{ item.Beer }}</h2>
                 <div class="form-group">
                     <div class="form-element">
-                        <input type="checkbox" class="save-cb-state" id="" value="" name="{{ item.ID }}">
+                        <input type="checkbox" class="save-cb-state" :id="'try-' + item.ID" :name="'try-' + item.ID" value="try" />
                         <label for="">Want to <span class="bigText">try</span></label>
                     </div>
                     <div class="form-element">
-                        <input type="checkbox" class="save-cb-state" id="" value="" name="{{ item.ID }}">
+                        <input type="checkbox" class="save-cb-state" :id="'tried' + item.ID" :name="'tried' + item.ID" value="tried" />
                         <label for="">Have <span class="bigText">tried</span></label>
                     </div>
                 </div>
