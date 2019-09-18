@@ -54,6 +54,12 @@ body {
     padding: 15px;
 }
 
+.bigText {
+    font-size: 120%;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
 .beer {
     font-size: 150%;
     margin-bottom: 20px;
@@ -67,7 +73,7 @@ body {
 
 .brewery {
     font-size: 135%;
-    text-shadow: -1px 2px 2px #666;
+    text-shadow: -1px 1px 1px #666;
     margin: 5px auto;
 }
 
@@ -83,6 +89,7 @@ body {
 
 .fas, .fab {
     padding-right: 10px;
+    color: #666;
 }
 
 .percentage {
@@ -98,14 +105,15 @@ footer {
     padding: 25px;
 }
 
-.item input {
+.item .form-group {
     position: absolute;
     top: 20px;
     left: 5px;
 }
 
-.item .fa-beer {
-    /* padding-left: 20px;  */
+.form-group .form-element {
+    display: block;
+    margin-bottom: 15px;
 }
 
 /* Button style */
@@ -163,17 +171,14 @@ footer {
 }
 
 .wrapper .item {
-    padding: 55px;
+    padding-top: 85px;
+    padding-bottom: 75px;
     color: #000;
     text-decoration: none;
     border: solid 2px rgba(233,171,88,.4);
     position: relative;
     min-height: 390px;
     background-color: #fff;
-}
-
-.wrapper .item h2 {
-    margin-top: 0;
 }
 
 @media (min-width: 576px) {
