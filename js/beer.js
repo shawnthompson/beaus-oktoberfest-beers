@@ -6,7 +6,7 @@ var items = [
     "Beer": "Quince Shapeshifter",
     "Flavour": "Sour I.P.A. w/ Quince",
     "Percentage": "6.5",
-    "Untapped": "https://untappd.com/b/halo-brewery-quince-shapeshifter/3392751"
+    "Untappd": "https://untappd.com/b/halo-brewery-quince-shapeshifter/3392751"
 },
 {
     "URL": "https://indiealehouse.com/",
@@ -15,7 +15,7 @@ var items = [
     "Beer": "Raspberry Lemonade Stand",
     "Flavour": "Lemon & Lactose Sour w/ Raspberries",
     "Percentage": "5.0",
-    "Untapped": "https://untappd.com/b/indie-alehouse-raspberry-lemonade-stand/3388773"
+    "Untappd": "https://untappd.com/b/indie-alehouse-raspberry-lemonade-stand/3388773"
 },
 {
     "URL": "http://www.leftfieldbrewery.ca/",
@@ -24,7 +24,7 @@ var items = [
     "Beer": "Big Train",
     "Flavour": "Zero IBU I.P.A.",
     "Percentage": "6.1",
-    "Untapped": "https://untappd.com/b/left-field-brewery-big-train/2720783"
+    "Untappd": "https://untappd.com/b/left-field-brewery-big-train/2720783"
 },
 {
     "URL": "https://www.littlebeastsbrewing.com/?v=3e8d115eb4b3",
@@ -33,7 +33,7 @@ var items = [
     "Beer": "La Saison du Printemps",
     "Flavour": "Dry Hopped Sour",
     "Percentage": "5.0",
-    "Untapped": "https://untappd.com/b/little-beasts-brewing-la-saison-du-printemps/2702444"
+    "Untappd": "https://untappd.com/b/little-beasts-brewing-la-saison-du-printemps/2702444"
 },
 {
     "URL": "http://longslice.com/",
@@ -42,7 +42,7 @@ var items = [
     "Beer": "Aloha Friday",
     "Flavour": "Hibiscus Pale Ale",
     "Percentage": "4.9",
-    "Untapped": "https://untappd.com/b/longslice-brewery-aloha-friday/2631078"
+    "Untappd": "https://untappd.com/b/longslice-brewery-aloha-friday/2631078"
 },
 {
     "URL": "https://matronfinebeer.ca/",
@@ -51,7 +51,7 @@ var items = [
     "Beer": "Janky",
     "Flavour": "I.P.A.",
     "Percentage": "6.0",
-    "Untapped": "https://untappd.com/b/matron-fine-beer-janky-ipa/3166387"
+    "Untappd": "https://untappd.com/b/matron-fine-beer-janky-ipa/3166387"
 },
 {
     "URL": "https://www.muddyyorkbrewing.com/",
@@ -60,7 +60,7 @@ var items = [
     "Beer": "Stork Derby",
     "Flavour": "Stout",
     "Percentage": "5.5",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://peoplespint.com/",
@@ -69,7 +69,7 @@ var items = [
     "Beer": "Gosé Cuervo",
     "Flavour": "Tequila Lime Sour Gose",
     "Percentage": "4.9",
-    "Untapped": "https://untappd.com/b/people-s-pint-brewing-company-gose-cuervo/1711651"
+    "Untappd": "https://untappd.com/b/people-s-pint-brewing-company-gose-cuervo/1711651"
 },
 {
     "URL": "https://rainhardbrewing.com/",
@@ -78,7 +78,7 @@ var items = [
     "Beer": "Daywalker",
     "Flavour": "Session I.P.A.",
     "Percentage": "3.9",
-    "Untapped": "https://untappd.com/b/rainhard-brewing-daywalker/1145045"
+    "Untappd": "https://untappd.com/b/rainhard-brewing-daywalker/1145045"
 },
 {
     "URL": "http://www.redlinebrewhouse.com/",
@@ -87,7 +87,7 @@ var items = [
     "Beer": "Under The Hood",
     "Flavour": "Barrel Aged Belgian Tripel",
     "Percentage": "9.7",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://www.rougeriverbrewingcompany.com/",
@@ -96,7 +96,7 @@ var items = [
     "Beer": "Passion of the Juice",
     "Flavour": "New England IPA w/ Passionfruit",
     "Percentage": "6.8",
-    "Untapped": "https://untappd.com/b/rouge-river-brewing-company-passion-of-the-juice/3392879"
+    "Untappd": "https://untappd.com/b/rouge-river-brewing-company-passion-of-the-juice/3392879"
 },
 {
     "URL": "https://www.sawdustcitybrewing.com/",
@@ -105,7 +105,7 @@ var items = [
     "Beer": "Haze",
     "Flavour": "Hopfenweisse",
     "Percentage": "6.0",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://thesecondwedge.ca/",
@@ -114,7 +114,7 @@ var items = [
     "Beer": "Gin Joint",
     "Flavour": "Juniper Gruit Ale",
     "Percentage": "5.0",
-    "Untapped": "https://untappd.com/b/the-second-wedge-brewing-co-gin-joint/2773361"
+    "Untappd": "https://untappd.com/b/the-second-wedge-brewing-co-gin-joint/2773361"
 },
 {
     "URL": "https://shortfingerbrewing.com/",
@@ -123,7 +123,7 @@ var items = [
     "Beer": "Ain't No Sunshine",
     "Flavour": "Barrel Aged Peach Cobbler Sour",
     "Percentage": "5.2",
-    "Untapped": "https://untappd.com/b/short-finger-brewing-co-ain-t-no-sunshine/2712125"
+    "Untappd": "https://untappd.com/b/short-finger-brewing-co-ain-t-no-sunshine/2712125"
 },
 {
     "URL": "https://www.signal.beer/",
@@ -132,7 +132,7 @@ var items = [
     "Beer": "Toy Robot",
     "Flavour": "Session IPA w/ Strawberries & Green Tea",
     "Percentage": "4.3",
-    "Untapped": "https://untappd.com/b/signal-brewing-company-toy-robot/2810184"
+    "Untappd": "https://untappd.com/b/signal-brewing-company-toy-robot/2810184"
 },
 {
     "URL": "https://hendersonbrewing.com/beer/society-of-beer-drinking-ladies/",
@@ -141,7 +141,7 @@ var items = [
     "Beer": "Brew0002",
     "Flavour": "Vanilla Orchid Roobios Tea Brown Ale",
     "Percentage": "5.0",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://untappd.com/Sonnen_Hill_Brewing",
@@ -150,7 +150,7 @@ var items = [
     "Beer": "Pale Beer",
     "Flavour": "Grisette",
     "Percentage": "4.5",
-    "Untapped": "https://untappd.com/b/sonnen-hill-brewing-pale-beer/3036913"
+    "Untappd": "https://untappd.com/b/sonnen-hill-brewing-pale-beer/3036913"
 },
 {
     "URL": "https://stonecityales.com/",
@@ -159,7 +159,7 @@ var items = [
     "Beer": "Ultra Fine Day",
     "Flavour": "Helles Lager",
     "Percentage": "5.0",
-    "Untapped": "https://untappd.com/b/stone-city-ales-ultra-fine-day/3419675"
+    "Untappd": "https://untappd.com/b/stone-city-ales-ultra-fine-day/3419675"
 },
 {
     "URL": "https://stray-dog-brewing.myshopify.com/",
@@ -168,7 +168,7 @@ var items = [
     "Beer": "Shaggin' Wagon",
     "Flavour": "NEIPA",
     "Percentage": "6.4",
-    "Untapped": "https://untappd.com/b/stray-dog-brewing-co-shaggin-wagon/2269999"
+    "Untappd": "https://untappd.com/b/stray-dog-brewing-co-shaggin-wagon/2269999"
 },
 {
     "URL": "https://toothandnailbeer.com/",
@@ -177,7 +177,7 @@ var items = [
     "Beer": "Breezehill Rosé",
     "Flavour": "Brut Rosé w/ Strawberries, Raspberries & Hibiscus",
     "Percentage": "8.0",
-    "Untapped": "https://untappd.com/b/tooth-and-nail-brewing-company-breezehill-rose/3432662"
+    "Untappd": "https://untappd.com/b/tooth-and-nail-brewing-company-breezehill-rose/3432662"
 },
 {
     "URL": "http://townbrewery.ca/",
@@ -186,7 +186,7 @@ var items = [
     "Beer": "Couch Full Of Dad",
     "Flavour": "I.P.A.",
     "Percentage": "6.3",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "http://www.woodbrothersbrewing.com/",
@@ -195,7 +195,7 @@ var items = [
     "Beer": "Highland Haze",
     "Flavour": "Hazy I.P.A.",
     "Percentage": "6.5",
-    "Untapped": "https://untappd.com/b/wood-brothers-brewing-co-highland-haze-ipa/3173666"
+    "Untappd": "https://untappd.com/b/wood-brothers-brewing-co-highland-haze-ipa/3173666"
 },
 {
     "URL": "https://www.555beer.com/",
@@ -204,7 +204,7 @@ var items = [
     "Beer": "Jail Cell",
     "Flavour": "Mango & Guava Kettle Sour",
     "Percentage": "3.5",
-    "Untapped": "https://untappd.com/b/555-brewing-co-jail-cell-sour/2170666"
+    "Untappd": "https://untappd.com/b/555-brewing-co-jail-cell-sour/2170666"
 },
 {
     "URL": "https://andersoncraftales.ca/",
@@ -213,7 +213,7 @@ var items = [
     "Beer": "Mimosa Sour",
     "Flavour": "Kettled Sour",
     "Percentage": "4.4",
-    "Untapped": "https://untappd.com/b/anderson-craft-ales-mimosa-sour/3369752"
+    "Untappd": "https://untappd.com/b/anderson-craft-ales-mimosa-sour/3369752"
 },
 {
     "URL": "https://www.avling.ca/",
@@ -222,7 +222,7 @@ var items = [
     "Beer": "Foxtail",
     "Flavour": "Zwickelbier",
     "Percentage": "5.1",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "http://www.barhopbar.com/",
@@ -231,7 +231,7 @@ var items = [
     "Beer": "Coastal Elite",
     "Flavour": "Blended Leipziger Gose",
     "Percentage": "4.5",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://beaus.ca/",
@@ -240,7 +240,7 @@ var items = [
     "Beer": "The Tom Green Beer!",
     "Flavour": "Milk Stout",
     "Percentage": "5.0",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://www.facebook.com/pages/category/Brewery/Beerlab-London-212759812268247/",
@@ -249,7 +249,7 @@ var items = [
     "Beer": "Daymoon",
     "Flavour": "Pale Ale",
     "Percentage": "5.8",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://www.bellwoodsbrewery.com/",
@@ -258,7 +258,7 @@ var items = [
     "Beer": "Jutsu",
     "Flavour": "Pale Ale",
     "Percentage": "5.6",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://btpshop.ca/",
@@ -267,7 +267,7 @@ var items = [
     "Beer": "Orange is the New Pink",
     "Flavour": "Orange Zest American Wheat",
     "Percentage": "6.0",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://bigrockbeer.com/eatery/eatery/big-rock-brewery-toronto/",
@@ -276,7 +276,7 @@ var items = [
     "Beer": "Forget The Hero",
     "Flavour": "Zero IBU I.P.A.",
     "Percentage": "6.5",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "http://www.blackoakbeer.com/",
@@ -285,7 +285,7 @@ var items = [
     "Beer": "Beat the Hea",
     "Flavour": "Belgian Style Wheat",
     "Percentage": "4.5",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://www.blackswanbrewing.ca/",
@@ -294,7 +294,7 @@ var items = [
     "Beer": "Mash in Pumpkins",
     "Flavour": "Pumpkin Barley Wine",
     "Percentage": "8.0",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://www.blockthreebrewing.com/",
@@ -303,7 +303,7 @@ var items = [
     "Beer": "Hype Passionfruit",
     "Flavour": "Rustic Foeder Aged Saison w/ Fruit",
     "Percentage": "6.5",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "http://www.bloodbrothersbrewing.com/",
@@ -312,7 +312,7 @@ var items = [
     "Beer": "iD",
     "Flavour": "Dry Hopped Pale Ale w/ Mango & Pineapple",
     "Percentage": "6.0",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "http://www.braumeister.ca/",
@@ -321,7 +321,7 @@ var items = [
     "Beer": "Route 21",
     "Flavour": "Märzen",
     "Percentage": "5.5",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "http://www.cliffordbrewing.com/",
@@ -330,7 +330,7 @@ var items = [
     "Beer": "Marigold",
     "Flavour": "Belgian Style Golden Ale",
     "Percentage": "6.9",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "http://www.thecollingwoodbrewery.com/",
@@ -339,7 +339,7 @@ var items = [
     "Beer": "Kellerbier",
     "Flavour": "Kellerbier",
     "Percentage": "5.0",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://www.dominioncity.ca/",
@@ -348,7 +348,7 @@ var items = [
     "Beer": "Safer Shore",
     "Flavour": "I.P.A.",
     "Percentage": "6.0",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://www.elorabrewingcompany.ca/",
@@ -357,7 +357,7 @@ var items = [
     "Beer": "Lodestar",
     "Flavour": "Sour Ale w/ Pink Guava",
     "Percentage": "6.1",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "http://fairweatherbrewing.com/",
@@ -366,7 +366,7 @@ var items = [
     "Beer": "Spirit Country",
     "Flavour": "Lime, Ginger & Gin Botanical Kettle Sour",
     "Percentage": "5.3",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://www.forkedriverbrewing.com/",
@@ -375,7 +375,7 @@ var items = [
     "Beer": "Dead Parrot",
     "Flavour": "Barrel Aged Sour Olde English Ale w/ Black Cherries",
     "Percentage": "7.7",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://godspeedbrewery.com/",
@@ -384,7 +384,7 @@ var items = [
     "Beer": "Shiranami",
     "Flavour": "HefeWeizen",
     "Percentage": "5.5",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "http://www.greatlakesbeer.com/",
@@ -393,7 +393,7 @@ var items = [
     "Beer": "RoboHop",
     "Flavour": "Imperial I.P.A.",
     "Percentage": "8.5",
-    "Untapped": ""
+    "Untappd": ""
 },
 {
     "URL": "https://www.halcyon.beer/",
@@ -402,7 +402,7 @@ var items = [
     "Beer": "Still / Thirsty",
     "Flavour": "Flat Trippel w/ Currants (SOBDL Collab)",
     "Percentage": "8.0",
-    "Untapped": ""
+    "Untappd": ""
 }
 ]
 
