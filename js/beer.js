@@ -102,10 +102,10 @@ var items = [
     "URL": "https://www.sawdustcitybrewing.com/",
     "Brewery": "Sawdust City Brewing Co.",
     "Location": "Gravenhurst, ON",
-    "Beer": "Haze",
+    "Beer": "Hase",
     "Flavour": "Hopfenweisse",
     "Percentage": "6.0",
-    "Untappd": ""
+    "Untappd": "https://untappd.com/b/sawdust-city-brewing-co-hase/3415295"
 },
 {
     "URL": "https://thesecondwedge.ca/",
