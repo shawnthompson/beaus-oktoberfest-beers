@@ -98,6 +98,16 @@ footer {
     padding: 25px;
 }
 
+.item input {
+    position: absolute;
+    top: 20px;
+    left: 5px;
+}
+
+.item .fa-beer {
+    /* padding-left: 20px;  */
+}
+
 /* Button style */
 
 .btn-untappd {
@@ -106,6 +116,7 @@ footer {
     border-color: #ffcc00;
     position: absolute;
     bottom: 10px;
+    left: 10px;
     margin: 5px auto;
     text-decoration: none;
 }
@@ -152,7 +163,7 @@ footer {
 }
 
 .wrapper .item {
-    padding: 2em 1em;
+    padding: 55px;
     color: #000;
     text-decoration: none;
     border: solid 2px rgba(233,171,88,.4);

@@ -18,7 +18,7 @@
         <div class="wrapper">
            
                 <div v-for="item in items" class="item" v-bind:class="{ beaus: item.Brewery === 'Beau\'s Brewing Co.'}" class="text-center">
-                <label class="beer"><i class="fas fa-beer"></i>{{ item.Beer }}<input class="save-cb-state" name="{{ item.ID }}" value="yes" type="checkbox" ></label>
+                <label class="beer"><input class="save-cb-state" name="{{ item.ID }}" value="yes" type="checkbox" /><i class="fas fa-beer"></i>{{ item.Beer }}</label>
                 <ul class="list-unstyled">
                     <li class="style"><span class="inv">Flavour: </span>{{ item.Flavour }}</li>
                     <li v-if="item.Percentage != ''" class="percentage"><span class="inv">Percentage: </span>{{ item.Percentage }} <i class="fas fa-percent"></i></li>
