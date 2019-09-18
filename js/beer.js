@@ -453,9 +453,22 @@ var items = [
 
 
 new Vue({
-  el: '#beers',
-  data: {
-    items
-  } 
+    el: '#beers',
+    data: {
+        items
+    },
+    computed: {
+        sortedArray: function() {
+            function compare(a, b) {
+            if (a.Beer < b.Beer)
+                return -1;
+            if (a.Beer > b.Beer)
+                return 1;
+            return 0;
+            }
+
+            return this.items.sort(compare);
+        }
+    }
 });
 
