@@ -116,6 +116,14 @@ footer {
     margin-bottom: 15px;
 }
 
+.wrapper .item.beaus {
+    background-color: #bcdbc1;
+}
+
+.wrapper .item.halcyon {
+    background-color: #dad2bd;
+}
+
 /* Button style */
 
 .btn-untappd {
