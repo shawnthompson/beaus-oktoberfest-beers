@@ -15,9 +15,20 @@
         <h1>Beau's Oktoberfest 2019 Beer list</h1>
         <p class="notice">The data is still being updated, not all links work</p>
         <p class="disclaimer"><strong>Disclaimer: </strong>This application is not affiliated with <a href="https://beaus.ca/">Beau's Brewing Co.</a> and was built by a fan of the festival who wanted to keep track of the beers he tried. The data in app was manually copied from  <a href="http://www.beausoktoberfest.ca/craft-haus">The Craft Haus  — Beau's Oktoberfest</a> and might have some errors in the data... sorry. Feel free to collaborate on the <a href="https://github.com/shawnthompson/beaus-oktoberfest-beers">Github.com project</a>.</p>
+ 
+        <button class="btn-clear" id="uncheckAll" onclick="uncheckAll('wrapper')">Clear all checkboxes</button>
+ 
+        <section class="sort">
+            <h2>Sort by: </h2>
+            <button>Brewery</button>
+            <button>Beer</button>
+            <button>Percentage</button>
+            <button>Want to try</button>
+            <button>Have tried</button>
+        </section>
         <div class="wrapper">
            
-            <section v-for="item in sortedArray" class="item" v-bind:class="
+            <section v-for="item in items" class="item" v-bind:class="
             { 
                 'beaus': item.Brewery === 'Beau\'s Brewing Co.',
                 'halcyon': item.Brewery === 'Halcyon Barrel House'
@@ -47,7 +58,7 @@
 </main>
 <footer>This site was created by <a href="mailto:plansmash@me.com">Shawn Thompson</a></footer>
 
-
+<script src="./js/uncheck.js"></script>
 <script src="./js/storage.js"></script>
 <script src="./js/beer.js"></script>
 </body>
